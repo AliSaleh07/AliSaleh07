@@ -192,22 +192,28 @@ A diversified portfolio demonstrating software engineering, systems programming,
 
 ### 2. [Sentinel API](https://github.com/AliSaleh07/sentinel-api)
 *Defensive Application Security Findings Ingestion & Triage REST Service*
+[![Live API](https://img.shields.io/badge/Live_API-sentinel.salehsec.dev-00f5ff)](https://sentinel.salehsec.dev/)
+
 - **Stack**: `TypeScript`, `Node.js`, `Express`, `Zod`, `Helmet`, `Winston`, `Vitest`.
 - **Security Controls**: Role-Based Access Control (`role: analyst` vs `role: admin`), dual-tier IP rate limiting (10 attempts/15m on auth endpoints to prevent brute-force attacks).
+- **Persistent Credential Storage**: Persistent atomic disk storage with runtime password rotation and immediate JWT token revocation.
 - **Zero-Trust Validation**: Strict runtime schema parsing via Zod before payloads touch controllers or storage layers.
 - **Production Container**: Hardened multi-stage Docker build running under an unprivileged `USER node`.
-- **Automated Verification**: 13 integration test suites covering RBAC, auth, input validation, and metrics; passing CI on Node 20 & 22.
+- **Automated Verification**: 34 integration test suites covering RBAC, auth, input validation, and metrics; passing CI on Node 20 & 22.
 
 ### 3. [SecOps Dashboard](https://github.com/AliSaleh07/secops-dashboard)
 *Cybersecurity Operations & Vulnerability Triage Interface*
+[![Live Demo](https://img.shields.io/badge/Live_Demo-dashboard.salehsec.dev-00f5ff)](https://dashboard.salehsec.dev/)
+
 - **Stack**: `React 19`, `TypeScript`, `Vite`, `Lucide Icons`, `Vitest`.
 - **Interface**: Cybersecurity dark theme with real-time multi-attribute vulnerability search, severity pills, and CVE inspection.
-- **Hybrid Data Pipeline**: Live synchronization with Sentinel API with an instant graceful fallback to a structured sample dataset.
+- **In-Memory Security**: Zero persistent credential storage (no tokens in localStorage/sessionStorage); interactive analyst authentication.
 - **Interactive Triage**: In-place status transitions (`OPEN` $\leftrightarrow$ `RESOLVED`) and zero-dependency SVG distribution charts.
-- **Automated Verification**: 4 component and service integration tests; passing CI on Node 20 & 22.
+- **Automated Verification**: 10 component and service integration tests; passing CI on Node 20 & 22.
 
 ### 4. [TaskForge](https://github.com/AliSaleh07/TaskForge)
 *Defensive Task Management REST API with Zero-Trust Multi-Tenancy*
+[![Live API Docs](https://img.shields.io/badge/Live_API-taskforge.salehsec.dev-00f5ff)](https://taskforge.salehsec.dev/docs)
 - **Stack**: `Python 3`, `FastAPI`, `SQLAlchemy`, `Pydantic v2`, `Pytest`.
 - **Security Focus**: Zero-trust tenant isolation preventing Insecure Direct Object References (IDOR), cryptographic password hashing (Argon2 / PBKDF2), and strict security response headers.
 - **Automated Verification**: 23 test assertions passing across 5 suites; green GitHub Actions CI matrix.
