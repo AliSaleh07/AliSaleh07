@@ -77,6 +77,21 @@ My technical work spans the entire defensive development lifecycle:
 
 ---
 
+## 🎖️ Verified Certifications & Credentials
+
+<div align="center">
+
+| Certification / Credential | Status | Focus Domain |
+|---|---|---|
+| **CompTIA Security+** | `Certified` | Core security operations, risk management, cryptography, incident response |
+| **CompTIA Network+** | `Certified` | Networking protocols, IP routing, subnetting, network troubleshooting |
+| **eJPT (Junior Penetration Tester)** | `Certified` | Practical host/network auditing, web app pentesting, structured reporting |
+| **TryHackMe & PicoCTF Labs** | `Active Operator` | Web exploitation, Linux privilege escalation, network traffic analysis |
+
+</div>
+
+---
+
 ## 🛡️ Cybersecurity-First Technology Stack
 
 ### 1. Security & Penetration Testing Tools
