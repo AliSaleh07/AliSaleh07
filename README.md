@@ -5,7 +5,7 @@
 
 <!-- Dynamic Animated Typing Headline SVG -->
 <a href="https://salehsec.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=1100&color=00F5FF&center=true&vCenter=true&width=550&lines=Software+Engineer;Cybersecurity+Engineer;Application+Security;Penetration+Testing;Backend+%26+Systems+Engineering;Building+Secure+Software" alt="Ali Saleh - Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=1100&color=22C55E&center=true&vCenter=true&width=550&lines=Software+Engineer;Cybersecurity+Engineer;Application+Security;Penetration+Testing;Backend+%26+Systems+Engineering;Building+Secure+Software" alt="Ali Saleh - Typing Headline" />
 </a>
 
 <br/>
