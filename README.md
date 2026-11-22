@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,5,10&height=180&section=header&text=Ali%20Saleh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20Systems%20Engineering&descFontSize=15&descAlignY=60&descColor=00f5ff" width="100%" alt="Ali Saleh - Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,5,10&height=180&section=header&text=Ali%20Saleh&fontSize=42&fontColor=0d1117&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20Systems%20Engineering&descFontSize=15&descAlignY=60&descColor=0d1117" width="100%" alt="Ali Saleh - Header Banner" />
 
 <!-- Dynamic Animated Typing Headline SVG -->
 <a href="https://salehsec.dev">
@@ -15,7 +15,7 @@
 [![Identity](https://img.shields.io/badge/Title-Software%20Engineer-0ea5e9?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/AliSaleh07)
 [![Specialization](https://img.shields.io/badge/Specialization-Cybersecurity%20%7C%20AppSec%20%7C%20Systems-10b981?style=for-the-badge&logo=shield&logoColor=white)](https://salehsec.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-AliSaleh07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliSaleh07)
-[![Contact](https://img.shields.io/badge/Contact-Direct%20Inquiry-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:AliSaleh07@users.noreply.github.com)
+[![Contact](https://img.shields.io/badge/Contact-Direct%20Inquiry-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:ali@salehsec.dev)
 
 </div>
 
@@ -303,7 +303,7 @@ A diversified portfolio demonstrating software engineering, systems programming,
 
 [![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-salehsec.dev-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://salehsec.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-AliSaleh07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliSaleh07)
-[![Email](https://img.shields.io/badge/Contact-Direct%20Inquiry-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:AliSaleh07@users.noreply.github.com)
+[![Email](https://img.shields.io/badge/Contact-Direct%20Inquiry-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:ali@salehsec.dev)
 
 <br/><br/>
 
